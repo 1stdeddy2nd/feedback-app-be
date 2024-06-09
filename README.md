@@ -32,7 +32,7 @@ This is a simple Feedback API built with FastAPI, SQLAlchemy (asyncpg), PostgreS
 
    ```bash
    git clone https://github.com/1stdeddy2nd/feedback-app-be.git
-   cd fastapi-feedback-app
+   cd feedback-app-be
    ```
 
 2. **Create and Activate a Virtual Environment**
