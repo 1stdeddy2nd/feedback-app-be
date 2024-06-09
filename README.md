@@ -31,7 +31,7 @@ This is a simple Feedback API built with FastAPI, SQLAlchemy (asyncpg), PostgreS
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-feedback-app.git
+   git clone https://github.com/1stdeddy2nd/feedback-app-be.git
    cd fastapi-feedback-app
    ```
 
